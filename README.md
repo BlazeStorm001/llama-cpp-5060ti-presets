@@ -2,6 +2,8 @@
 
 Presets for running Qwen3.8-27B with an ASCII-condensed vocabulary on an NVIDIA RTX 5060 Ti 16 GB.
 
+If you find these presets helpful, consider starring the repo to help others discover it.
+
 ## Models
 
 Download the target for your chosen preset and the matching draft:
